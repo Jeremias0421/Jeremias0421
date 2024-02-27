@@ -7,7 +7,7 @@
 
 I'm a computer science undergraduate student passionate about learning new things and improving every day.
 
-- 🔭 I’m currently a CS student at UNER.
+- 🔭 I’m currently a CS bachelor student at UNER.
 - 📚 I’m currently learning C++ programming language.
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
